@@ -1,6 +1,6 @@
 {
   "name": "cas-server-mongo-registries",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module for JSCAS providing ticket and service registries backed by mongodb",
   "homepage": "https://github.com/jscas/cas-server-mongo-registries",
   "main": "registries.js",
