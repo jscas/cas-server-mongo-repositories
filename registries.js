@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
-module.exports.serviceRegistry = require('./serviceRegistry');
-module.exports.ticketRegistry = require('./ticketRegistry');
+module.exports.serviceRegistry = require('./serviceRegistry')
+module.exports.ticketRegistry = require('./ticketRegistry')
